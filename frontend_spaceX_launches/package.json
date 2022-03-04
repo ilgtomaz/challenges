@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "start": "vite preview"
   },
   "dependencies": {
     "date-fns": "^2.28.0",
